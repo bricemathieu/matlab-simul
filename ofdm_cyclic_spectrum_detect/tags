@@ -1,0 +1,22 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+cs_threshold	cs_threshold.m	/^function y = cs_threshold(x, N, fs, M, fc, BW)$/;"	f
+cyclic_spectrum	cyclic_spectrum.m	/^function [] = cyclic_spectrum(x, N, fs, M)$/;"	f
+data_generator	data_generator.m	/^function output = data_generator(PSDU,TXVECTOR)$/;"	f
+dec2bit	dec2bit.m	/^function output = dec2bit(input,width)$/;"	f
+encoder	encoder.m	/^function output = encoder(input,TXVECTOR,SIGNAL_FLAG)$/;"	f
+gi_inserter	gi_inserter.m	/^function output = gi_inserter(input)$/;"	f
+interleaver	interleaver.m	/^function output = interleaver(input,TXVECTOR,SIGNAL_FLAG)$/;"	f
+inverse	inverse.m	/^function output = inverse(input)$/;"	f
+long_generator	long_generator.m	/^function output = long_generator()$/;"	f
+mapper	mapper.m	/^function output = mapper(input,TXVECTOR,SIGNAL_FLAG)$/;"	f
+ofdm_modulator	ofdm_modulator.m	/^function output = ofdm_modulator(input)$/;"	f
+pilot_inserter	pilot_inserter.m	/^function output = pilot_inserter(input)$/;"	f
+scrambler	scrambler.m	/^function output = scrambler(len,init_state)$/;"	f
+short_generator	short_generator.m	/^function output = short_generator()$/;"	f
+signal_generator	signal_generator.m	/^function output = signal_generator(TXVECTOR)$/;"	f
+transmitter	transmitter.m	/^function output = transmitter(PSDU,TXVECTOR)$/;"	f
